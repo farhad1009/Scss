@@ -1,0 +1,14 @@
+{
+  "name": "scss_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "farhad": "node-sass --watch ./style.scss ./mystyle.css --source-map ./mystyle.css.map"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
